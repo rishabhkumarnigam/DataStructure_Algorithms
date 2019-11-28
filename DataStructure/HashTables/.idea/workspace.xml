@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b962fc2f-0661-4515-9d5b-98f3b3a8ad2d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FirstRecurringNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyHashTable.java" afterDir="false" />
-    </list>
+    <list default="true" id="b962fc2f-0661-4515-9d5b-98f3b3a8ad2d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -137,7 +134,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="Designer" order="1" />
@@ -149,7 +145,7 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Version Control" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32925472" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32925472" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39933258" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
