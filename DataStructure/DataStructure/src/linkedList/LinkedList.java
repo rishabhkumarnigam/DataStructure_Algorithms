@@ -38,6 +38,11 @@ public class LinkedList<E> {
 
     final Object middle = linkedList.findMiddle();
     System.out.println("\n Middle is " + middle);
+
+    linkedList.reverseLinkedList();
+    System.out.println("\n After reversing list");
+    linkedList.printList();
+
   }
 
   public void printList() {
@@ -135,6 +140,22 @@ public class LinkedList<E> {
       }
     }
   }
+
+  public void reverseLinkedList(){
+
+    Node previous=null;
+    Node current=head;
+    Node next=null;
+
+    while(current !=null){
+      next=current.next;
+      current.next=previous;
+      previous=current;
+      current=next;
+    }
+    head=previous;
+  }
+
 
   static class Node<E> {
     E item;
