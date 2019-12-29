@@ -9,6 +9,7 @@ public class Stack<E> {
   }
 
   public static void main(String[] args) {
+
     Stack<String> stackOfBrowserHistory = new Stack<>();
     stackOfBrowserHistory.push("google");
     stackOfBrowserHistory.push("udemy");
